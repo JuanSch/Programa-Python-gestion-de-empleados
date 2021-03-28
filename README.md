@@ -17,11 +17,4 @@ Requisitos:
   -Librerias
   -Descargar todos los archivos
 
-Librerias utilizadas
--PySimpleGui
-  pip install PySimpleGui
--openpyxl
-  pip install openpyxl
-
-
-
+Librerias utilizadas: PySimpleGui, openpyxl
