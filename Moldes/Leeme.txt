@@ -1,0 +1,6 @@
+		   ---ATENCIÓN---
+Si módifica alguno de los archivos en esta carpeta
+todos los nuevos excels que se generen desde el progrma
+se verán afectados por los cambios que se realizaron
+
+Puede modificar los documentos bajo su criterio
