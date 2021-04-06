@@ -17,4 +17,5 @@ Requisitos:
   -Librerias
   -Descargar todos los archivos
 
+Ejecutar Matadero.py
 Librerias utilizadas: PySimpleGui, openpyxl
